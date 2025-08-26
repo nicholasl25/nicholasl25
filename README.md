@@ -1,41 +1,6 @@
-<h1 align="left">Hey there! 👋 I'm Nicholas Lombardo</h1>
-
-###
-
-<h2 align="left">💡 About Me</h2>
-
-<p align="left">
-🎓 I'm a Computer Science and Mathematics student at <strong>Cornell University</strong>, passionate about data science, applied math, and solving complex real-world problems.<br><br>
-
-🧪 I'm currently working at <strong>Bristol Myers Squibb (BMS)</strong>, where I use machine learning to predict <strong>pharmacokinetic (PK) parameters</strong> of chemical compounds based on molecular structure.<br>
-🌊 Previously, I worked with Cornell’s GeoData project team, using machine learning to predict <strong>Harmful Algal Blooms (HABs)</strong> in Cayuga Lake.<br><br>
-
-🐍 My primary language is Python — I use libraries like <code>NumPy</code>, <code>Pandas</code>, and <code>Scikit-learn</code> daily.<br>
-📦 I'm also confident with Java and OCaml, especially in object-oriented and functional programming contexts.<br><br>
-
-🧠 Academically, I’m most excited by topics like linear algebra, group theory, probability, and statistics — and I’m driven to apply these concepts in industry settings.<br><br>
-
-🏌️‍♂️ Outside of class and coding, I unwind by playing golf and working out — both keep me sharp, focused, and energized.<br>
-</p>
-
-
-###
-
-<h2 align="left">📊 Stats & Fun Facts</h2>
-
-<p align="left">
-✨ Started coding: <strong>2018</strong><br>
-📚 Currently learning: <strong>Tensor Calculus</strong><br>
-🎯 Career goal: <strong>Apply machine learning and applied math to biomedical and environmental challenges</strong><br>
-🧠 Fun fact: <em>There are more ways to shuffle a deck of cards than there are atoms on Earth — 52! is ~8.07×10<sup>67</sup></em><br>
-</p>
-
-###
-
-<h2 align="left">📫 Let’s Connect</h2>
-
-<p align="left">
-I'm always open to collaborating on impactful projects or chatting about data, math, or machine learning. Feel free to check out my work and reach out!
-</p>
-
+<h1 align="left">Hey, I’m Nicholas Lombardo</h1>
+<h2 align="left">About Me</h2> <p align="left"> I’m a Computer Science and Mathematics student at <strong>Cornell University</strong>, fascinated by the way abstract math and data-driven models can be turned into tools that solve practical problems. I enjoy building things that bridge theory and impact. When I’m not coding or working through proofs, you’ll usually find me on the golf course, in the gym, or finding small ways to reset from the academic grind. </p> <p align="left"> At <strong>Bristol Myers Squibb (BMS)</strong>, I develop machine learning models that predict <strong>pharmacokinetic (PK) parameters</strong> of chemical compounds directly from their molecular structure. The work combines data science with biomedical research, aiming to anticipate how drugs behave in the human body well before trials begin. </p> <p align="left"> With the <strong>Port Authority of New York and New Jersey</strong>, I worked on forecasting airport passenger volumes at major hubs like JFK and Newark. Using <strong>SARIMAX</strong> and <strong>GARCH</strong> models, I built forecasts that capture both seasonality and volatility—helping airports better prepare for unpredictable waves of travelers. </p> <p align="left"> Earlier, as part of Cornell’s <strong>GeoData project</strong>, I worked on predicting <strong>Harmful Algal Blooms (HABs)</strong> in Cayuga Lake. Most of the time the lake is harmless, but those rare blooms carry big consequences. Tackling this imbalanced-data problem showed me how machine learning can be adapted to systems where rare events matter most. </p>
+<h2 align="left">I Code With</h2> <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" alt="OCaml" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> </p>
+<h2 align="left">Quick Facts</h2> <p align="left"> <strong>Started coding:</strong> 2018<br> <strong>Currently working on:</strong> <em>Hormesis</em>, an app project that explores how social media dynamics can be used to reduce phone addiction and encourage healthier digital habits<br> <strong>Career goal:</strong> Use machine learning and mathematics as powerful tools to understand complex systems and create solutions that make a real difference<br> <strong>Fun fact:</strong> There are about 8.07×10<sup>67</sup> possible ways to shuffle a deck of cards—far more than the number of atoms on Earth </p>
+<h2 align="left">Let’s Connect</h2> <p align="left"> I’m always open to collaborating on meaningful projects or just trading ideas about data, math, or machine learning. Feel free to explore my work and reach out if something sparks your interest. </p>
 
