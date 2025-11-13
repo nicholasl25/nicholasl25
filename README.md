@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I’m Nicholas Lombardo 👋</h1>
+<h1 align="left">Hello, I’m Nicholas Lombardo</h1>
 
 <h2 align="left">Currently Working On</h2>
 <p align="left">
